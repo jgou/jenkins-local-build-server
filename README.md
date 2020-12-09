@@ -11,6 +11,8 @@ Use the docker compose file in this repo to start Jenkins server container.
 docker-compose up -d
 ```
 
+**Note**: You will find Jenkins configuration files will be stored in your folder __~/.jenkins__
+
 Check that the container is correctly running
 
 ```
